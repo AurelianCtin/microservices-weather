@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukFL4Trc6xKt/v32uxwTbQoRy1zxHZRt60FrKQ74c9Yme//3P3fdExR4egkLB8XiQ7LQJ0a6o7XT0jmaf4l19w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roaang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\roaang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

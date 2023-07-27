@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/USKAGxyzXCIh0OD78g8xI+KNFiUiWItHlSW0ir/Xmk=",
+  "Source": "CloudWeather.Temperature",
+  "BasePath": "_content/CloudWeather.Temperature",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
