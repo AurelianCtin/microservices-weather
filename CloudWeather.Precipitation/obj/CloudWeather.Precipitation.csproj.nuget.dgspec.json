@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj": {}
+    "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj": {
+    "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+        "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
         "projectName": "CloudWeather.Precipitation",
-        "projectPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+        "projectPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
         "packagesPath": "C:\\Users\\roaang\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Precipitation\\obj\\",
+        "outputPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Precipitation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roaang\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj": {}
+    "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj": {
+    "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
+        "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
         "projectName": "CloudWeather.Report",
-        "projectPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
+        "projectPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
         "packagesPath": "C:\\Users\\roaang\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\obj\\",
+        "outputPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roaang\\AppData\\Roaming\\NuGet\\NuGet.Config",

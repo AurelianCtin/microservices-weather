@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+      "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
       "projectName": "CloudWeather.Temperature",
-      "projectPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+      "projectPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
       "packagesPath": "C:\\Users\\roaang\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Temperature\\obj\\",
+      "outputPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Temperature\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roaang\\AppData\\Roaming\\NuGet\\NuGet.Config",

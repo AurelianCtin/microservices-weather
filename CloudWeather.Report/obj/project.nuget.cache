@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mAhk5UiJJ2JRv6/0C7xWtSoxETzjfquuFJ8s52y36cqjLmIBk9J8Z/wF8Nz+PI0ptUBmm9OzEbmWJFDC9T49Q==",
+  "dgSpecHash": "27nkjXRZImBaGv6q5A4mkE/ONHTp3E+HAxypT/IGG8ggSv5bTgQGOi0qaGRujMYtmU2qh2o4JoVuVpBaDarG5Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
+  "projectFilePath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.Report\\CloudWeather.Report.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roaang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\roaang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

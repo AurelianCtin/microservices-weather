@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+      "projectUniqueName": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
       "projectName": "CloudWeather.DataLoader",
-      "projectPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+      "projectPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
       "packagesPath": "C:\\Users\\roaang\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AWS\\microservices-weather\\CloudWeather.DataLoader\\obj\\",
+      "outputPath": "C:\\Projects\\AWS\\microservices-weather\\microservices-weather\\CloudWeather.DataLoader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roaang\\AppData\\Roaming\\NuGet\\NuGet.Config",
